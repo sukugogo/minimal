@@ -1,8 +1,7 @@
 # Sample Projects
 ---
-## Streamlit 
 
-### Good Or Bad Debt Calculator
+### Streamlit: Good Or Bad Debt Calculator
 
 A simple interactive Web Page created on Streamlit which helps understand in which scenarios a debt/mortgage can be considered a good or bad debt
 
