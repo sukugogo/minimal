@@ -1,6 +1,15 @@
-title: Sukumar Gogoi
+title: <p align="center"> Sukumar Gogoi </p>
 logo: /assets/img/ProfilePhoto.PNG
-description: ML Enthusiast
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+  <a href="https://www.linkedin.com/in/sukumar-gogoi-12086a28/">LinkedIn</a> |
+  <a href="https://github.com/sukugogo">GitHub</a>
+  
+  <br>   
+  My proficiency is in ETL tools like Abinitio, Pyspark and I am working in the Banking and Datawarehousing domain. 
+  I'm also an ML enthusiast and am learning AI/ML concepts. 
+  <br>
+  </p>
+
 theme: jekyll-theme-minimal
